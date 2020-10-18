@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h2>Hello! I'm Landeivison Lima!</h2>
-<p><em>IT technical support at <a href="https://www.ursula.com.br/"><img src="https://www.ursula.com.br/images/topo-logo-sta.png" width="80"></a> 
+<p><em>IT technical support at  <a href="https://www.ursula.com.br/"><img src="https://www.ursula.com.br/images/topo-logo-sta.png" width="80"></a> 
 </em></p>
 
 # :mortar_board: bachelor degree in Information Systems
