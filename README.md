@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p><em>IT technical support at  <a href="https://www.ursula.com.br/"><img src="https://www.ursula.com.br/images/topo-logo-sta.png" width="80"></a> 
 </em></p>
 
-# :mortar_board: bachelor degree in Information Systems
+# :mortar_board: Bachelor degree in Information Systems
 
 [![](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&color=blue&link=https://www.linkedin.com/in/josé-landeivison-da-silva-lima/)](https://www.linkedin.com/in/josé-landeivison-da-silva-lima/)
 [![](https://img.shields.io/badge/-Facebook-222222?style=flat-square&logo=Facebook&logoColor=white&color=blue&link=https://www.facebook.com/Landeivison/)](https://www.facebook.com/Landeivison/)
