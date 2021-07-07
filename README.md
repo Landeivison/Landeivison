@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 :mortar_board: Bachelor degree in Information Systems
 
-[![](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&color=blue&link=https://www.linkedin.com/in/jos%C3%A9-landeivison-da-silva-lima-31b32b50/)](https://www.linkedin.com/in/jos%C3%A9-landeivison-da-silva-lima-31b32b50/)
+[![](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&color=blue&link=https://www.linkedin.com/in/jos%C3%A9-landeivison-da-silva-lima-31b32b50/)](https://www.linkedin.com/in/jose-landeivison-da-silva-lima-31b32b50/)
 [![](https://img.shields.io/badge/-Facebook-222222?style=flat-square&logo=Facebook&logoColor=white&color=blue&link=https://www.facebook.com/Landeivison/)](https://www.facebook.com/Landeivison/)
 ![GitHub followers](https://img.shields.io/github/followers/Landeivison?label=Follow&style=social)
 
