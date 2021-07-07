@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h2>Hello! I'm Landeivison Lima!</h2>
-<p><em>IT technical support at  <a href="https://www.ursula.com.br/"><img src="https://www.ursula.com.br/images/topo-logo-sta.png" width="80"></a> 
+<p><em>IT technical support<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.portalgsti.com.br%2FbxuhzX5JPeZhWgYwF3Qlqpn1D5s%3D%2F200x200%2Fhttps%3A%2F%2Fwww.portalgsti.com.br%2Fmedia%2Fuploads%2Fcommunity%2F2017%2F01%2F04%2Fsuporte-tecnico.png&imgrefurl=https%3A%2F%2Fwww.portalgsti.com.br%2Fsuporte-tecnico%2Fsobre%2F&tbnid=avXwcr37AWknFM&vet=12ahUKEwj7_umb8NHxAhW9lpUCHbaOBq4QMygAegUIARDCAQ..i&docid=M0JfaJTAUm-rhM&w=200&h=200&q=suporte%20t%C3%A9cnico&ved=2ahUKEwj7_umb8NHxAhW9lpUCHbaOBq4QMygAegUIARDCAQ" width="80"></a> 
 </em></p>
 
 :mortar_board: Bachelor degree in Information Systems
