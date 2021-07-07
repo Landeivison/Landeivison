@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h2>Hello! I'm Landeivison Lima!</h2>
-<p><em>IT technical support<img src="![image](https://user-images.githubusercontent.com/12192198/124829852-89aa9380-df4f-11eb-9234-a1df9e3001bf.png)
-" width="80"></a> 
+<p><em>IT technical support<img src="http://biosbug.com.br/wp-content/uploads/2013/12/shutterstock_110678570.jpg" width="80"></a> 
 </em></p>
 
 :mortar_board: Bachelor degree in Information Systems
