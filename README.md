@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h2>Hello! I'm Landeivison Lima!</h2>
-<p><em>IT technical support<img src="http://biosbug.com.br/wp-content/uploads/2013/12/shutterstock_110678570.jpg" width="80"></a> 
+<p><em>Quality Assurance | QA | Stant<img src="http://biosbug.com.br/wp-content/uploads/2013/12/shutterstock_110678570.jpg" width="80"></a> 
 </em></p>
 
 :mortar_board: Bachelor degree in Information Systems
