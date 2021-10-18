@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h2>Hello! I'm Landeivison Lima!</h2>
-<p><em>Quality Assurance | QA | Stant<img src="http://biosbug.com.br/wp-content/uploads/2013/12/shutterstock_110678570.jpg" width="80"></a> 
+<p><em>Quality Assurance | QA | Stant<img src="https://user-images.githubusercontent.com/12192198/137745112-d0563a5d-ee37-43de-9a0a-445131b51199.png" width="80"></a> 
 </em></p>
 
 :mortar_board: Bachelor degree in Information Systems
