@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h2>Hello! I'm Landeivison Lima!</h2>
-<p><em>Quality Assurance at<a href="https://www.stant.com.br/">Stant</a></em></p>
+<p><em>Quality Assurance at<a href="https://www.stant.com.br/"> Stant</a></em></p>
 
 :mortar_board: Bachelor degree in Information Systems
 
